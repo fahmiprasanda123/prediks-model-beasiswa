@@ -1,0 +1,1 @@
+# prediks-model-beasiswa
